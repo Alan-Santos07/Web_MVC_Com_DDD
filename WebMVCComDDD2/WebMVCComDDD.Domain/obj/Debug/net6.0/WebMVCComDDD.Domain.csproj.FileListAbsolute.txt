@@ -1,0 +1,12 @@
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Domain\bin\Debug\net6.0\WebMVCComDDD.Domain.deps.json
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Domain\bin\Debug\net6.0\WebMVCComDDD.Domain.dll
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Domain\bin\Debug\net6.0\WebMVCComDDD.Domain.pdb
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Domain\obj\Debug\net6.0\WebMVCComDDD.Domain.csproj.AssemblyReference.cache
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Domain\obj\Debug\net6.0\WebMVCComDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Domain\obj\Debug\net6.0\WebMVCComDDD.Domain.AssemblyInfoInputs.cache
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Domain\obj\Debug\net6.0\WebMVCComDDD.Domain.AssemblyInfo.cs
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Domain\obj\Debug\net6.0\WebMVCComDDD.Domain.csproj.CoreCompileInputs.cache
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Domain\obj\Debug\net6.0\WebMVCComDDD.Domain.dll
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Domain\obj\Debug\net6.0\refint\WebMVCComDDD.Domain.dll
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Domain\obj\Debug\net6.0\WebMVCComDDD.Domain.pdb
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Domain\obj\Debug\net6.0\ref\WebMVCComDDD.Domain.dll

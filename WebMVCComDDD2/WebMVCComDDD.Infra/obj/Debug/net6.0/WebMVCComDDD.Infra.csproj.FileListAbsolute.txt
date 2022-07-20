@@ -1,0 +1,17 @@
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Infra\obj\Debug\net6.0\WebMVCComDDD.Infra.csproj.AssemblyReference.cache
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Infra\obj\Debug\net6.0\WebMVCComDDD.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Infra\obj\Debug\net6.0\WebMVCComDDD.Infra.AssemblyInfoInputs.cache
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Infra\obj\Debug\net6.0\WebMVCComDDD.Infra.AssemblyInfo.cs
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Infra\obj\Debug\net6.0\WebMVCComDDD.Infra.csproj.CoreCompileInputs.cache
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Infra\bin\Debug\net6.0\WebMVCComDDD.Infra.deps.json
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Infra\bin\Debug\net6.0\WebMVCComDDD.Infra.runtimeconfig.json
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Infra\bin\Debug\net6.0\WebMVCComDDD.Infra.dll
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Infra\bin\Debug\net6.0\WebMVCComDDD.Infra.pdb
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Infra\bin\Debug\net6.0\WebMVCComDDD.Domain.dll
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Infra\bin\Debug\net6.0\WebMVCComDDD.Domain.pdb
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Infra\obj\Debug\net6.0\WebMVCComDDD.Infra.csproj.CopyComplete
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Infra\obj\Debug\net6.0\WebMVCComDDD.Infra.dll
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Infra\obj\Debug\net6.0\refint\WebMVCComDDD.Infra.dll
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Infra\obj\Debug\net6.0\WebMVCComDDD.Infra.pdb
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Infra\obj\Debug\net6.0\WebMVCComDDD.Infra.genruntimeconfig.cache
+D:\Cursos\Mentoria .NET\WebMVCComDDD2\WebMVCComDDD.Infra\obj\Debug\net6.0\ref\WebMVCComDDD.Infra.dll
