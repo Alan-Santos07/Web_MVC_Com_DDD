@@ -5,8 +5,11 @@ using WebMVCComDDD.Application.Interfaces;
 using WebMVCComDDD.Infra.Interfaces;
 using WebMVCComDDD.Infra.Repositories;
 using WebMVCComDDD2.Data;
+using WebMVCComDDD.Application.Helpers;
+using WebMVCComDDD.Application.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.Configure<EmailSettings>(builder.Configuration.GetSection("EmailSettings"));
 
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
@@ -20,6 +23,8 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped<IProdutoApplication, ProdutoApplication>();
 builder.Services.AddScoped<IProdutoRepository, ProdutoRepository>();
+
+builder.Services.AddScoped<IEmailApplication, EmailApplication>();
 
 var app = builder.Build();
 

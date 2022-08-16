@@ -10,10 +10,13 @@ namespace WebMVCComDDD2.Controllers
         private readonly ApplicationDbContext _context;
         private readonly IProdutoApplication _produtoApplication;
 
-        public ProdutosController(ApplicationDbContext context, IProdutoApplication produtoApplication)
+        private readonly IEmailApplication _emailApplication;
+
+        public ProdutosController(ApplicationDbContext context, IProdutoApplication produtoApplication, IEmailApplication emailApplication)
         {
             _context = context;
-            _produtoApplication = produtoApplication;   
+            _produtoApplication = produtoApplication;
+            _emailApplication = emailApplication;
         }
 
         // GET: Produtos

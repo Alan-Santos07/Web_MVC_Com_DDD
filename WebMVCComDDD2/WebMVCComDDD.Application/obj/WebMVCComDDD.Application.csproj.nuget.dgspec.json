@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cursos\\Mentoria .NET\\WebMVCComDDD2\\WebMVCComDDD.Application\\WebMVCComDDD.Application.csproj": {}
+    "D:\\Trabalho\\Estudos\\Web_MVC_Com_DDD\\WebMVCComDDD2\\WebMVCComDDD.Application\\WebMVCComDDD.Application.csproj": {}
   },
   "projects": {
-    "D:\\Cursos\\Mentoria .NET\\WebMVCComDDD2\\WebMVCComDDD.Application\\WebMVCComDDD.Application.csproj": {
+    "D:\\Trabalho\\Estudos\\Web_MVC_Com_DDD\\WebMVCComDDD2\\WebMVCComDDD.Application\\WebMVCComDDD.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cursos\\Mentoria .NET\\WebMVCComDDD2\\WebMVCComDDD.Application\\WebMVCComDDD.Application.csproj",
+        "projectUniqueName": "D:\\Trabalho\\Estudos\\Web_MVC_Com_DDD\\WebMVCComDDD2\\WebMVCComDDD.Application\\WebMVCComDDD.Application.csproj",
         "projectName": "WebMVCComDDD.Application",
-        "projectPath": "D:\\Cursos\\Mentoria .NET\\WebMVCComDDD2\\WebMVCComDDD.Application\\WebMVCComDDD.Application.csproj",
+        "projectPath": "D:\\Trabalho\\Estudos\\Web_MVC_Com_DDD\\WebMVCComDDD2\\WebMVCComDDD.Application\\WebMVCComDDD.Application.csproj",
         "packagesPath": "C:\\Users\\alanc\\.nuget\\packages\\",
-        "outputPath": "D:\\Cursos\\Mentoria .NET\\WebMVCComDDD2\\WebMVCComDDD.Application\\obj\\",
+        "outputPath": "D:\\Trabalho\\Estudos\\Web_MVC_Com_DDD\\WebMVCComDDD2\\WebMVCComDDD.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Cursos\\Mentoria .NET\\WebMVCComDDD2\\WebMVCComDDD.Infra\\WebMVCComDDD.Infra.csproj": {
-                "projectPath": "D:\\Cursos\\Mentoria .NET\\WebMVCComDDD2\\WebMVCComDDD.Infra\\WebMVCComDDD.Infra.csproj"
+              "D:\\Trabalho\\Estudos\\Web_MVC_Com_DDD\\WebMVCComDDD2\\WebMVCComDDD.Infra\\WebMVCComDDD.Infra.csproj": {
+                "projectPath": "D:\\Trabalho\\Estudos\\Web_MVC_Com_DDD\\WebMVCComDDD2\\WebMVCComDDD.Infra\\WebMVCComDDD.Infra.csproj"
               }
             }
           }
@@ -53,23 +53,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Cursos\\Mentoria .NET\\WebMVCComDDD2\\WebMVCComDDD.Domain\\WebMVCComDDD.Domain.csproj": {
+    "D:\\Trabalho\\Estudos\\Web_MVC_Com_DDD\\WebMVCComDDD2\\WebMVCComDDD.Domain\\WebMVCComDDD.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cursos\\Mentoria .NET\\WebMVCComDDD2\\WebMVCComDDD.Domain\\WebMVCComDDD.Domain.csproj",
+        "projectUniqueName": "D:\\Trabalho\\Estudos\\Web_MVC_Com_DDD\\WebMVCComDDD2\\WebMVCComDDD.Domain\\WebMVCComDDD.Domain.csproj",
         "projectName": "WebMVCComDDD.Domain",
-        "projectPath": "D:\\Cursos\\Mentoria .NET\\WebMVCComDDD2\\WebMVCComDDD.Domain\\WebMVCComDDD.Domain.csproj",
+        "projectPath": "D:\\Trabalho\\Estudos\\Web_MVC_Com_DDD\\WebMVCComDDD2\\WebMVCComDDD.Domain\\WebMVCComDDD.Domain.csproj",
         "packagesPath": "C:\\Users\\alanc\\.nuget\\packages\\",
-        "outputPath": "D:\\Cursos\\Mentoria .NET\\WebMVCComDDD2\\WebMVCComDDD.Domain\\obj\\",
+        "outputPath": "D:\\Trabalho\\Estudos\\Web_MVC_Com_DDD\\WebMVCComDDD2\\WebMVCComDDD.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -107,23 +102,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Cursos\\Mentoria .NET\\WebMVCComDDD2\\WebMVCComDDD.Infra\\WebMVCComDDD.Infra.csproj": {
+    "D:\\Trabalho\\Estudos\\Web_MVC_Com_DDD\\WebMVCComDDD2\\WebMVCComDDD.Infra\\WebMVCComDDD.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cursos\\Mentoria .NET\\WebMVCComDDD2\\WebMVCComDDD.Infra\\WebMVCComDDD.Infra.csproj",
+        "projectUniqueName": "D:\\Trabalho\\Estudos\\Web_MVC_Com_DDD\\WebMVCComDDD2\\WebMVCComDDD.Infra\\WebMVCComDDD.Infra.csproj",
         "projectName": "WebMVCComDDD.Infra",
-        "projectPath": "D:\\Cursos\\Mentoria .NET\\WebMVCComDDD2\\WebMVCComDDD.Infra\\WebMVCComDDD.Infra.csproj",
+        "projectPath": "D:\\Trabalho\\Estudos\\Web_MVC_Com_DDD\\WebMVCComDDD2\\WebMVCComDDD.Infra\\WebMVCComDDD.Infra.csproj",
         "packagesPath": "C:\\Users\\alanc\\.nuget\\packages\\",
-        "outputPath": "D:\\Cursos\\Mentoria .NET\\WebMVCComDDD2\\WebMVCComDDD.Infra\\obj\\",
+        "outputPath": "D:\\Trabalho\\Estudos\\Web_MVC_Com_DDD\\WebMVCComDDD2\\WebMVCComDDD.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,8 +130,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Cursos\\Mentoria .NET\\WebMVCComDDD2\\WebMVCComDDD.Domain\\WebMVCComDDD.Domain.csproj": {
-                "projectPath": "D:\\Cursos\\Mentoria .NET\\WebMVCComDDD2\\WebMVCComDDD.Domain\\WebMVCComDDD.Domain.csproj"
+              "D:\\Trabalho\\Estudos\\Web_MVC_Com_DDD\\WebMVCComDDD2\\WebMVCComDDD.Domain\\WebMVCComDDD.Domain.csproj": {
+                "projectPath": "D:\\Trabalho\\Estudos\\Web_MVC_Com_DDD\\WebMVCComDDD2\\WebMVCComDDD.Domain\\WebMVCComDDD.Domain.csproj"
               }
             }
           }
@@ -155,32 +145,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.7, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.7, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.7, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.7, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.7, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -191,12 +155,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     }
